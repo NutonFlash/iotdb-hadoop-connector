@@ -1,4 +1,4 @@
-# IoTDB-Hadoop Integration
+# IoTDB-Hadoop Connector
 
 This repository contains two Java programs that facilitate the integration between IoTDB and Hadoop. These programs allow for data migration between IoTDB and HDFS, supporting both directions: from IoTDB to HDFS and from HDFS back to IoTDB.
 
